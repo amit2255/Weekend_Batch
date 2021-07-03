@@ -8,6 +8,7 @@ app = Flask(__name__)
 
 bucket = custombucket
 region = customregion
+region1 = customregion1
 
 db_conn = connections.Connection(
     host=customhost,

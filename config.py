@@ -1,6 +1,6 @@
 customhost = "employee.coghw13fheqo.us-east-2.rds.amazonaws.com"
 customuser = "admin"
-custompass = "employee1234"
+custompass = "employee12345"
 customdb = "employee"
-custombucket = "employees3"
+custombucket = "employees3_test"
 customregion = "us-east-2"
